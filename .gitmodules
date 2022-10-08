@@ -1,0 +1,3 @@
+[submodule "Test/--force"]
+	path = Test/--force
+	url = https://github.com/django/django
